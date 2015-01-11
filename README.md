@@ -3,9 +3,15 @@ kld-polynomial
 
 A class of simple polynomial functionality including root finding
 
+:warning: For commercial licensing of algorithm in rpoly, check rpoly.js or
+http://www.netlib.org/toms/
+http://www.acm.org/publications/policies/softwarecrnotice
+
+:warning: rpoly.js is not wrapped in module for node.js.
+
 Install
 -------
-    npm install kld-polynomial
+    ~~npm install kld-polynomial~~
 
 Polynomial
 ----------
